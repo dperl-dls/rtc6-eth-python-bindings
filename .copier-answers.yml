@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier
+_commit: 2.3.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: david.perl@diamond.ac.uk
+author_name: David Perl
+description: RTC6 ethernet laser controller python bindings
+distribution_name: rtc6py
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: dperl-dls
+package_name: rtc6py
+pypi: false
+repo_name: rtc6-eth-python-bindings
+type_checker: pyright
